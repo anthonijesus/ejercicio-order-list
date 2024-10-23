@@ -1,0 +1,27 @@
+.products {
+    font-size: 12px;
+    padding: 10px;
+    background-color: blanchedalmond;
+    border-radius: 5px;
+    
+    .image {
+        width: 150px;
+        height: 150px;
+        object-fit: cover;
+        border-radius: 5px;
+    }
+
+    h4 {
+        font-size: large;
+        font-weight: bold;
+    }
+
+    p{
+        padding-top: 2px;
+        font-weight: bold;
+    }
+
+    button {
+        margin-top: 4px;
+    }
+}

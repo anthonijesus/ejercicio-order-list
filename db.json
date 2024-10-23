@@ -1,0 +1,75 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "product": "Hamburger",
+        "price": 5.99,
+        "image": "https://media.istockphoto.com/id/1473452859/es/foto/sabrosa-hamburguesa-con-queso-vaso-de-cola-y-papas-fritas-en-primer-plano-de-bandeja-de-madera.jpg?s=612x612&w=0&k=20&c=cz14RIorGJFn3mFhBFL66PqvXD1nYC_28Cc_OO4mhps=",
+        "stock": 50
+      },
+      {
+        "id": 2,
+        "product": "Fries",
+        "price": 2.99,
+        "image": "https://www.shutterstock.com/image-photo/french-fries-beautiful-picture-your-260nw-2486052521.jpg",
+        "stock": 100
+      },
+      {
+        "id": 3,
+        "product": "Chicken Nuggets",
+        "price": 4.49,
+        "image": "https://media.istockphoto.com/id/537703317/es/foto/nuggets-de-pollo-con-salsa-de-tomate.jpg?s=612x612&w=0&k=20&c=KS-PFc4uIECZY7-1KEJpbRta15pMUbCInytyIyYDknc=",
+        "stock": 75
+      },
+      {
+        "id": 4,
+        "product": "Soft Drink",
+        "price": 1.99,
+        "image": "https://www.shutterstock.com/image-photo/poznan-poland-oct-28-2021-260nw-2071581119.jpg",
+        "stock": 200
+      },
+      {
+        "id": 5,
+        "product": "Milkshake",
+        "price": 3.49,
+        "image": "https://www.shutterstock.com/image-photo/three-sweet-milkshakes-nuts-caramel-260nw-1227880981.jpg",
+        "stock": 60
+      },
+      {
+        "id": 6,
+        "product": "Pizza",
+        "price": 4.49,
+        "image": "https://media.istockphoto.com/id/938742222/es/foto/pizza-de-pepperoni-cheesy.jpg?s=612x612&w=0&k=20&c=GUwbHCrMdnpHGmTzHVPk2U9flWi3WgMVdfdOeBMU00E=",
+        "stock": 60
+      },
+      {
+        "id": 7,
+        "product": "Hot Dog",
+        "price": 3.54,
+        "image": "https://img.freepik.com/foto-gratis/hot-dog-clasico-ketchup-salsa-mostaza-aislado-sobre-fondo-blanco_123827-29747.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1728518400&semt=ais_hybrid",
+        "stock": 60
+      },
+      {
+        "id": 8,
+        "product": "Meat",
+        "price": 14.54,
+        "image": "https://media.gettyimages.com/id/972852490/es/foto/filetes-de-solomillo-barbacoa-con-tomillo-fresco.jpg?s=612x612&w=0&k=20&c=mQ6V0z4baSE0ApjLQRkw1vTdy5kejSB_Y2acl8iqeRE=",
+        "stock": 60
+      },
+      {
+        "id": 9,
+        "product": "Sausage",
+        "price": 6.54,
+        "image": "https://www.shutterstock.com/image-photo/sausages-fried-spices-herbs-selective-260nw-796951912.jpg",
+        "stock": 60
+      },
+      {
+        "id": 10,
+        "product": "Beer",
+        "price": 3.05,
+        "image": "https://www.hukins-hops.co.uk/wp-content/uploads/2024/04/what-is-the-percentage-alcohol-in-beer.jpg",
+        "stock": 120
+      }
+    ]
+  }
+  
